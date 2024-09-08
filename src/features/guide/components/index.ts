@@ -1,2 +1,2 @@
-import { Map } from "./map/map";
-export { Map };
+import { Map, UserMarker } from "./map/map";
+export { Map, UserMarker };
