@@ -25,9 +25,3 @@ export const Default: Story = {
     size: "default",
   },
 };
-
-export const FullScreen: Story = {
-  args: {
-    size: "fullScreen",
-  },
-};
